@@ -40,6 +40,4 @@ Developed as part of the **CodeAlpha Internship Program (Task 3)**.
 5. The trained model predicts new note sequences.
 6. A new MIDI composition is generated.
 
----
 
-## 📂 Project Structure
